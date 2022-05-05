@@ -14,8 +14,8 @@ Your goal is to present the data (that you receive from the API) as shown in the
 1. Circle with the Book store image.
 2. List with a maximum of 2 books ordered by the number of copies sold. In case that there are no books, please display a "No data available" message.
 3. Book store rating represented in stars. The interaction with the rating should update it's correspondent entry in the API.
-4. Book store establishment date in DD/MM/YYYY format and website link. The API will return the date in ISO 8601 format.
-5. Book store country flag image. The Book store API will only return a 2-letter ISO 3166-1 country code. Please use https://restcountries.eu/ API to get the flag image for each country code to display. 
+4. Book store establishment date in DD.MM.YYYY format and website link. The API will return the date in ISO 8601 format.
+5. Book store country flag image. The Book store API will only return a 2-letter ISO 3166-1 country code. Please use https://restcountries.eu/ API to get the flag image for each country code to display. In the event of unavailability of this API, please use any other equivalent API of your chosing.
 
 **You should follow the wireframe positioning of elements, but you can make it a bit prettier ;)**
 
@@ -66,7 +66,7 @@ If you need any other endpint, check the JSON:API specification.
 #### Rules
 - You can choose between Backbone and React as your main framework.
 - The project startup procedure must be documented.
-- Javascript should be written in ES6 or above.
+- Javascript should be written in ES6 or above (TypeScript is welcomed).
 - GIT history must be clean.
 - Application presentation must be done by responsive web design principles.
 - Write CSS from scratch, please do not use Bootstrap and similar.

@@ -76,6 +76,10 @@ If you have any issues with POST request returning errors - please read the firs
 
 #### Happy coding and thank you for applying to Squirro!
 
+#### book-store-ui
+- Address the requirements in one single page using multiple components, 
+- npm install and npm start for viewing
+
                 
 
 

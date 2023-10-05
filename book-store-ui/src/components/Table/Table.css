@@ -1,0 +1,8 @@
+table {
+  border: 2px solid forestgreen;
+  width: 600px;
+  height: 150px;
+  table-layout: fixed;
+}
+
+td, th, tr { border: 1px solid black}

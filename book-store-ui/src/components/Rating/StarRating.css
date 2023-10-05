@@ -1,0 +1,24 @@
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.on {
+  color: #000;
+}
+.off {
+  color: #ccc;
+}
+.star-rating {
+  float: center;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.rating {
+  padding-left: 8rem;
+  padding-top: 1.5rem;
+  align-items: right;
+}

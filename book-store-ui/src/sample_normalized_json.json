@@ -1,0 +1,58 @@
+{
+    "stores": [
+        {
+            "id": "1",                
+            "name": "MicroBooks",
+            "website": "https://www.micro-books-store.com",
+            "rating": 4,
+            "storeImage": "https://i.pinimg.com/736x/51/a2/47/51a247e0d1785b89b70a17a1c8f31ac5--melbourne-australia-second-hand.jpg",
+            "establishmentDate": "1995-02-09T00:00:00+0000",
+            "countryCode": "SE",
+            "countryFlag": "http://blabla",
+            "books": [
+                {
+                    "id":   "1",
+                    "name": "Beautiful Code: Leading Programmers Explain How They Think",
+                    "copiesSold": 67,
+                    "author": "Tin"
+                },
+                {
+                    "id":   "2",
+                    "name": "Beautiful Code: Leading Programmers Explain How They Think",
+                    "copiesSold": 66,
+                    "author": "Min"
+                },
+                {
+                    "id":   "3",
+                    "name": "Beautiful Code: Leading Programmers Explain How They Think",
+                    "copiesSold": 65,
+                    "author": "Win"
+                }
+            ]
+        },
+        {
+            "id": "2",                
+            "name": "MicroBooks 2",
+            "website": "https://www.micro-books-store.com",
+            "rating": 4,
+            "storeImage": "https://i.pinimg.com/736x/51/a2/47/51a247e0d1785b89b70a17a1c8f31ac5--melbourne-australia-second-hand.jpg",
+            "establishmentDate": "1995-02-09T00:00:00+0000",
+            "countryCode": "SE",
+            "countryFlag": "http://blabla",
+            "books": [
+                {
+                    "id":   "1",
+                    "name": "Beautiful Code: Leading Programmers Explain How They Think",
+                    "copiesSold": 67,
+                    "author": "Tin"
+                },
+                {
+                    "id":   "2",
+                    "name": "Beautiful Code: Leading Programmers Explain How They Think",
+                    "copiesSold": 66,
+                    "author": "Min"
+                }, 
+            ]
+        },
+    ]
+}

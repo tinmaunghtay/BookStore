@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# book-store-ui
+
+- Address the requirements in one single page using multiple components,
+- npm install and npm start for viewing
+- One npm start and browse http://localhost:3000
+- Make sure book-store-api is separately run before so that data can be fetched for ui
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

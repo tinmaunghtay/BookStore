@@ -1,6 +1,6 @@
-## Squirro Frontend Coding Challenge
+## Frontend Coding Challenge
 
-Welcome to the Squirro coding challenge! Your task is to create an APP that lists the best-selling books for each book store. 
+Welcome to the coding challenge! Your task is to create an APP that lists the best-selling books for each book store. 
 
 This repo contains a JSON:API based application which provides the data for the book stores. This API can be found in the `book-store-api` folder. Within the section below you will find more information on how to run/use `book-store-api`.
 
@@ -74,7 +74,7 @@ If you have any issues with POST request returning errors - please read the firs
 - Application presentation must be done by responsive web design principles.
 - Write CSS from scratch, please do not use Bootstrap, Material UI, and similar.
 
-#### Happy coding and thank you for applying to Squirro!
+#### Happy coding !
 
 #### book-store-ui
 - Address the requirements in one single page using multiple components, 
